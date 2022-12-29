@@ -1,5 +1,7 @@
 👋 Hi, I’m Süleyman Barış Eser, a software developer from Turkey. I'm currently working at Together Price as a frontend developer.
 
+[![wakatime](https://wakatime.com/badge/user/003f7972-73dd-4426-9598-0bfd6560f508.svg)](https://wakatime.com/@003f7972-73dd-4426-9598-0bfd6560f508)
+
 # Skills
 
 ### Languages
